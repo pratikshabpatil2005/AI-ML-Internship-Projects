@@ -1,0 +1,39 @@
+# AI & Machine Learning Internship Projects
+
+This repository contains two machine learning projects completed as part of my AI & Machine Learning internship.
+
+## Project 1: Iris Flower Classification
+
+**Objective:** Classify iris flowers into Setosa, Versicolor, and Virginica species using sepal and petal measurements.
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+**Model:** Logistic Regression
+
+**Evaluation:** Accuracy, precision, recall, F1-score, and confusion matrix.
+
+## Project 2: SMS Spam Detector
+
+**Objective:** Classify SMS messages as spam or legitimate (ham).
+
+**Technologies:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+**Methods:** TF-IDF text feature extraction and Multinomial Naive Bayes.
+
+**Evaluation:** Accuracy, spam precision, recall, F1-score, and confusion matrix.
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open a notebook in Google Colab or Jupyter Notebook.
+3. Run the cells from top to bottom.
+4. The SMS Spam Detector requires internet access to download its dataset.
+
+## Learning Outcomes
+
+- Data exploration and visualization
+- Supervised machine learning
+- Text preprocessing and feature extraction
+- Classification model evaluation
+
+**Note:** See the notebooks for the actual experimental results and visualizations.
